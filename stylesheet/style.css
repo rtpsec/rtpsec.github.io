@@ -11,12 +11,19 @@ h2 {
   text-transform: uppercase;
 }
 
-nav li a {
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+
+li a {
   display: block;
   width: 60px;
 }
 
-nav li a:hover {
+li a:hover {
   background-color: #555;
   color: white;
 }
