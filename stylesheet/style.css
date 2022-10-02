@@ -10,3 +10,8 @@ h2 {
 .uppercase {
   text-transform: uppercase;
 }
+
+nav {
+  display: block;
+  width: 60px;
+}
