@@ -1,7 +1,10 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 h1, 
 h2 {
-  color: red;
-  text-transform: uppercase;
+  color: rgb(26, 33, 33);
 }
 
 .uppercase {
