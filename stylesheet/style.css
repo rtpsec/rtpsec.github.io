@@ -11,8 +11,13 @@ h2 {
   text-transform: uppercase;
 }
 
-nav {
+nav li a {
   list-style-type: none;
   display: block;
   width: 60px;
+}
+
+nav li a:hover {
+  background-color: #555;
+  color: white;
 }
