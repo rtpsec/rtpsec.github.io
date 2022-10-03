@@ -9,6 +9,10 @@ h2 {
   padding-left: 25px;
 }
 
+.fontquicksand {
+  font-family: 'Quicksand', sans-serif;
+}
+
 .uppercase {
   text-transform: uppercase;
 }
