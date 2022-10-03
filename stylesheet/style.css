@@ -18,6 +18,7 @@ h2 {
   overflow: hidden;
   background-color: #333;
   background-image: url(/skyimage.jpeg);
+  background-repeat: repeat-x;
   line-height: 1.8;
   word-spacing: 2px;
   border-radius: 15px;
