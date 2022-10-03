@@ -11,21 +11,22 @@ h2 {
   text-transform: uppercase;
 }
 
-ul {
+ul nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
   width: 200px;
   background-color: #760000;
   color: white;
+  letter-spacing: 0.3em;
 }
 
-  li a {
+  li a nav {
   display: block;
   width: 60px;
 }
 
-li a:hover {
+li a:hover nav {
   background-color: #555;
   color: white;
 }
