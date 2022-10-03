@@ -11,21 +11,23 @@ h2 {
   text-transform: uppercase;
 }
 
-ul {
+.nav ul {
   list-style-type: none;
   margin: 0;
-  padding: 10;
+  padding: 15;
   overflow: hidden;
   background-color: #333;
+  background-image: url(/skyimage.png);
   line-height: 1.8;
   word-spacing: 2px;
+  border-radius: 0px;
 }
 
-li {
+.nav li {
   float: left;
 }
 
-li a {
+.nav li a {
   display: block;
   color: white;
   text-align: center;
@@ -36,12 +38,13 @@ li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover {
-  background-color: rgb(228, 23, 23);
-  color: white;
+.nav li a:hover {
+  background-color: rgb(255, 0, 0);
+  color: rgb(255, 255, 255);
+  border-radius: 15px;
 
 }
 
-.nav {
-  background-image: url("sky-image.jpeg");
+p {
+  background-image: url(./skyimage.png);
 }
