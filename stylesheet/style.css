@@ -11,7 +11,7 @@ h2 {
   text-transform: uppercase;
 }
 
-ul nav {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -19,14 +19,15 @@ ul nav {
   background-color: #760000;
   color: white;
   letter-spacing: 0.3em;
+  display: inline;
 }
 
-  li a nav {
+  li a {
   display: block;
   width: 60px;
 }
 
-li a:hover nav {
+li a:hover {
   background-color: #555;
   color: white;
 }
