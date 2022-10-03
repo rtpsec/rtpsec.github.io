@@ -32,6 +32,7 @@ h2 {
   line-height: 1.8;
   word-spacing: 2px;
   border-radius: 15px;
+  text-transform: uppercase;
   /* opacity: 90% */
 }
 
