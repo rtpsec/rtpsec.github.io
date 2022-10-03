@@ -15,7 +15,7 @@ h2 {
 .nav ul {
   list-style-type: none;
   margin: 0;
-  padding: 15;
+  padding: 12;
   overflow: hidden;
   background-color: #333;
   /* background-image: url(/skyimage.jpeg); */
@@ -49,5 +49,5 @@ h2 {
 }
 
 p {
-  background-image: url(./skyimage.png);
+  
 }
