@@ -9,6 +9,12 @@ h2 {
   padding-left: 25px;
 }
 
+.secondheader {
+  font-weight: normal;
+  font-size: 25px;
+  
+}
+
 .fontquicksand {
   font-family: 'Quicksand', sans-serif;
 }
