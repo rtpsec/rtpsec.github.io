@@ -12,6 +12,7 @@ h2 {
 .firstheader {
   margin-bottom: 0px;
   padding-left: 150px;
+  display: flex;
 
 }
 
