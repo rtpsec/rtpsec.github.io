@@ -78,5 +78,5 @@ h2 {
   margin-left: auto;
   margin-right: auto;
   /* object-position: center; */
-  filter: drop-shadow(6px 6px 0px rgb(31, 31, 31));
+  filter: drop-shadow(6px 6px 10px rgb(31, 31, 31));
 }
