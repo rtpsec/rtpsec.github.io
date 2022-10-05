@@ -9,6 +9,11 @@ h2 {
   padding-left: 18px;
 }
 
+.firstheader {
+  margin-bottom: 0px;
+  
+}
+
 .secondheader {
   font-weight: normal;
   font-size: 14px;
