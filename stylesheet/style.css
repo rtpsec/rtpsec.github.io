@@ -24,10 +24,9 @@ h2 {
 }
 .headerlogo {
   display: block;
-  margin-top: 25;
-  margin-left: auto;
-  margin-right: auto;
-  width: 200px;
+  margin-top: 15px;
+  margin-left: 18px;
+  width: 125px;
 }
 
 .fontquicksand {
