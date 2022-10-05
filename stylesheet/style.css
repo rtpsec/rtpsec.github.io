@@ -73,6 +73,8 @@ h2 {
 
 }
 
-a[href*='pressure-washing'] { 
+a[href*='pressure-washing'] {
+  margin-top: 10px; 
   object-position: center;
+  filter: drop-shadow(16px 16px 10px black);
 }
