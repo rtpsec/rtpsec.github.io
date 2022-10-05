@@ -73,6 +73,6 @@ h2 {
 
 }
 
-p {
-  
+a[href*='pressure-washing'] { 
+  object-position: center;
 }
