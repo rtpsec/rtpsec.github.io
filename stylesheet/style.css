@@ -73,7 +73,7 @@ h2 {
 
 }
 
-a[href*='pressure-'] {
+.centerimage {
   margin-top: 10px; 
   object-position: center;
   filter: drop-shadow(16px 16px 10px black);
