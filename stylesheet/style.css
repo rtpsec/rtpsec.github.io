@@ -58,7 +58,6 @@ h2 {
   font-size: 12px;
   /* opacity: 90% */
   position:sticky;
-  position:-webkit-sticky;
 }
 
 .nav li {
