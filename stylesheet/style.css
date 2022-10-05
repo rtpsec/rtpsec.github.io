@@ -75,6 +75,7 @@ h2 {
 
 .centerimage {
   margin-top: 10px; 
+  margin-left: 150px;
   object-position: center;
   filter: drop-shadow(16px 16px 10px black);
 }
