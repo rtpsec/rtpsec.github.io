@@ -22,6 +22,13 @@ h2 {
   margin-top: 0px;
 
 }
+.headerlogo {
+  display: block;
+  margin-top: 25;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
 
 .fontquicksand {
   font-family: 'Quicksand', sans-serif;
