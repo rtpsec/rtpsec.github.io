@@ -31,6 +31,11 @@ h2 {
   width: 125px;
 }
 
+.phone {
+  display: block;
+  margin-top: 15px;
+}
+
 .fontquicksand {
   font-family: 'Quicksand', sans-serif;
 }
