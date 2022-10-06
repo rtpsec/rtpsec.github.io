@@ -34,6 +34,8 @@ h2 {
 .phone {
   display: block;
   margin-top: 20px;
+  margin-left: auto;
+  margin-right: 50px;
 }
 
 .fontquicksand {
