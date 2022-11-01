@@ -74,9 +74,10 @@ h2 {
 .centerimage {
   display: block;
   margin-top: 40;
-  margin-left: 400;
+  margin-left: auto;
   margin-right: auto;
   object-position: center;
+  text-align:center;
 }
 
 .center {
