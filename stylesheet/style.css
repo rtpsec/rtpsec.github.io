@@ -14,6 +14,10 @@ h2 {
   content: '🖨️';
 }
 
+.iconnas::before {
+  content:'💾';
+}
+
 .fontquicksand {
   font-family: 'Quicksand', sans-serif;
 }
