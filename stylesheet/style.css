@@ -5,10 +5,11 @@ h2 {
   color: rgb(26, 33, 33);
 }
 
+.mrmenu {
+  text-decoration: none;
+}
 .iconfirewall::before {
   content: '🔥';
-  text-decoration: none;
-
 }
 .iconprinter::before {
   content: '🖨️';
