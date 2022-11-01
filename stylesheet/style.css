@@ -5,7 +5,7 @@ h2 {
   color: rgb(26, 33, 33);
 }
 
-.iconfirewall {
+.iconfirewall::before {
   content: '🔥';
 }
 .iconprinter {
