@@ -39,6 +39,10 @@ h2 {
   width: 200px;
 }
 
+.mrmenu {
+  content: ">"
+}
+
 .fontquicksand {
   font-family: 'Quicksand', sans-serif;
 }
