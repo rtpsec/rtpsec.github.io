@@ -8,35 +8,6 @@ h2 {
   color: rgb(26, 33, 33);
 }
 
-.firstheader {
-  margin-bottom: 0px;
-  margin-top: 50px;
-  display: flex;
-
-}
-
-.secondheader {
-  font-weight: normal;
-  font-size: 14px;
-  padding-left: 18px;
-  line-height: 0.8;
-  margin-top: 0px;
-
-}
-.headerlogo {
-  display: block;
-  margin-top: 15px;
-  margin-left: 18px;
-  width: 125px;
-}
-
-.phone {
-  display: block;
-  margin-top: 25px;
-  margin-left: auto;
-  margin-right: 50px;
-  width: 200px;
-}
 
 .mrmenu {
   content: ">";
