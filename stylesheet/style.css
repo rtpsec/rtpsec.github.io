@@ -7,8 +7,10 @@ h2 {
 
 .iconfirewall::before {
   content: '🔥';
+  text-decoration: none;
+
 }
-.iconprinter {
+.iconprinter::before {
   content: '🖨️';
 }
 
