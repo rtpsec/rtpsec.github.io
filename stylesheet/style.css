@@ -6,7 +6,6 @@
 h1, 
 h2 {
   color: rgb(26, 33, 33);
-  padding-left: 18px;
 }
 
 .firstheader {
@@ -40,7 +39,7 @@ h2 {
 }
 
 .mrmenu {
-  content: ">"
+  content: ">";
 }
 
 .fontquicksand {
